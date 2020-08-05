@@ -9,3 +9,7 @@ RISC V를 시뮬레이션 할 수 있는 Spike 시뮬레이터.
 
 ### 📘 [Tensorflow lite demo running in Zephyr on Litex/VexRiscv SoC](https://github.com/antmicro/litex-vexriscv-tensorflow-lite-demo)
 아주 친절하게 마련된 튜토리얼.
+
+
+### 📘 [AI on a microcontroller with TensorFlow Lite and SparkFun Edge](https://codelabs.developers.google.com/codelabs/sparkfun-tensorflow/#0)
+Sparkfun edge tensorflow 튜토리얼
