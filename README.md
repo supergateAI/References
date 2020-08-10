@@ -15,7 +15,16 @@ RISC V를 시뮬레이션 할 수 있는 Spike 시뮬레이터.
 Sparkfun edge tensorflow 튜토리얼인데 100% 절대 안 될거임. 드라이버를 수정 해야하는데 [CH341SER](https://github.com/juliagoda/CH341SER) 이것이 필요 할 것임
 
 
-# Paper - 선행 연구 자료
+# Paper
 
 Applying the Haar-cascade Algorithm for Detecting Safety Equipment in Safety Management Systems for Multiple Working Environments
 공사현장에서 안전장치 Detection에 관한 논문이다.
+
+# Companies
+## AI Supervisor로 건설현장 감독 서비스르 제공하는 업체들
+
+https://www.smartvid.io
+
+[How Shawmut Design & Construction is minimizing risk to construct with confidence](https://youtu.be/MfLPEvEMtlM?t=1727)
+
+단순히 안전고리 확인에 그칮 않고 공사의 종류, 리스크, 안전 장치 유무를 종합적으로 판단 현장 위험을 전반적으로 감독하는 단계까지 왔다.
