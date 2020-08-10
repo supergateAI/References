@@ -12,4 +12,4 @@ RISC V를 시뮬레이션 할 수 있는 Spike 시뮬레이터.
 
 
 ### 📘 [AI on a microcontroller with TensorFlow Lite and SparkFun Edge](https://codelabs.developers.google.com/codelabs/sparkfun-tensorflow/#0)
-Sparkfun edge tensorflow 튜토리얼
+Sparkfun edge tensorflow 튜토리얼인데 100% 절대 안 될거임. 드라이버를 수정 해야하는데 [CH341SER](https://github.com/juliagoda/CH341SER) 이것이 필요 할 것임
