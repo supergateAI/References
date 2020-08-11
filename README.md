@@ -26,5 +26,5 @@ Applying the Haar-cascade Algorithm for Detecting Safety Equipment in Safety Man
 [How Shawmut Design & Construction is minimizing risk to construct with confidence](https://youtu.be/MfLPEvEMtlM?t=1727)
 단순히 안전고리 확인에 그치지 않고 공사의 종류, 리스크, 안전 장치 유무를 종합적으로 판단 현장 위험을 전반적으로 감독하는 단계까지 왔다. Vinnie는 공사 현장의 리스크를 분석하는 AI다.
 
-📰 https://www.smartvid.io/ai-in-construction-blog/who-is-vinnie
-📰 https://www.hannovermesse.de/en/news/news-articles/ai-engine-vinnie-to-warn-of-accidents
+- 📰 https://www.smartvid.io/ai-in-construction-blog/who-is-vinnie
+- 📰 https://www.hannovermesse.de/en/news/news-articles/ai-engine-vinnie-to-warn-of-accidents
