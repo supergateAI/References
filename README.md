@@ -33,4 +33,4 @@ Applying the Haar-cascade Algorithm for Detecting Safety Equipment in Safety Man
 - 📰 https://www.hannovermesse.de/en/news/news-articles/ai-engine-vinnie-to-warn-of-accidents
 
 
-![Blank Diagram](Blank Diagram.png)
+![Blank Diagram](BlankDiagram.png)
