@@ -17,6 +17,18 @@ Sparkfun edge tensorflow 튜토리얼인데 100% 절대 안 될거임. 드라이
 ### 📘 [TensorFlow’s Object Detection API Using Google Collab.](https://medium.com/swlh/tensorflows-object-detection-api-using-google-collab-cb92d7f7b3cf)
 From naver
 
+### 📘 [TensorFlow’s Object Detection pre-trained Model (Collab)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb)
+
+Tensorflow에서 제공하는 Pre-trained 모델을 이용하여 Object Detection code(colab).
+
+### 📘 [Eager Few Shot Object Detection (Colab) ](https://colab.research.google.com/github/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb)
+
+Pre-trained 모델에 신규 클래스(여기선 Rubber Duck) 추가하기. 안전고리 Detect하도록 추가할 수 있음. 
+### 📘 [Object Detection (Yolo v5) ](https://github.com/bala-codes/Yolo-V5_Object_Detection_Blood_Cell_Count_and_Detection)
+Blood Cell dataset과 Yolo-v5를 이용해 Object Detection 한 코드. 
+
+### 📘 [Object Detection (Yolo v5) ](https://github.com/tzutalin/labelImg)
+Object Detection 하려면 전처리 과정으로 사진에서 object 좌표를 찾아야 한다. pyqt5를 이용해서 좌표 dataset을 만드는 코드
 
 # Paper
 
